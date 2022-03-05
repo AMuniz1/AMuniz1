@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning C, Rust and C++. Already know Scientific Python 
 - 💞️ I’m looking to collaborate on FOSS projects. 
 -   Years as a Linux user made me very grateful for all the open source projects I use, I want to give back by contributing my knowledge and my time in any way.
--
 
 <!---
 AMuniz1/AMuniz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
