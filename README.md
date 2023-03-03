@@ -1,3 +1,4 @@
+- GitHub Copilot steals the work of open-source devs! I will probably migrate to GitLab...
 - 👋 Hi, I’m @AMuniz1 a.k.a Alexandre Muniz
 - Currently a Software Engineering student at UniCesumar EAD.
 - 👀 I’m interested in becoming a software developer(not only mobile, but messing with PC architecture as well). 
